@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 65bfd90d835b75a45b3791f965edf195
+  - enabled: 1
+    path: Assets/Scenes/HighScoreScene.unity
+    guid: fc6f44a7aa14d5a4ea14377ff446833d
+  - enabled: 1
+    path: Assets/Scenes/1-1.unity
+    guid: fe04937238037744281bd775ef3d5a16
+  - enabled: 1
+    path: Assets/Scenes/1-2.unity
+    guid: 1d81365beb5d72743984e0a537c492cc
+  - enabled: 1
+    path: Assets/Scenes/1-3.unity
+    guid: 8c6e2c56692b46b4b9ebdc6ab5dcb910
+  - enabled: 1
+    path: Assets/Scenes/1-5.unity
+    guid: d67f8102459a51c4aa00cae76b77f3b0
+  - enabled: 1
+    path: Assets/Scenes/InsertName.unity
+    guid: c18c322bf7373334394cc5c406f8ab40
+  - enabled: 1
+    path: Assets/Scenes/PrePlayScene/PrePlayScene1-3.unity
+    guid: bdbbf7067de58c84f917458c9dbf82dd
+  - enabled: 1
+    path: Assets/Scenes/PrePlayScene/PrePlayScene1-2.unity
+    guid: 6fd3acbffe613d4409e25a940172611b
+  - enabled: 1
+    path: Assets/Scenes/PrePlayScene/PrePlayScene1-1.unity
+    guid: c387834d828ce354fa70f56f889ebe02
+  - enabled: 1
+    path: Assets/Scenes/Tutorail4.unity
+    guid: 7ba3b6be0037c9b4ba316de1adcfec89
+  - enabled: 1
+    path: Assets/Scenes/PrePlayScene/PrePlayScene1-4.unity
+    guid: 351706202a237194ca3ef25339d54920
+  - enabled: 1
+    path: Assets/Scenes/PrePlayScene/PrePlayScene1-5.unity
+    guid: 423e2723409270c4482b93485ecc95ce
+  - enabled: 1
+    path: Assets/Scenes/Tutorail1.unity
+    guid: 3aa051714fa8bfa4ab3924953e619a57
+  - enabled: 1
+    path: Assets/Scenes/Tutorail2.unity
+    guid: b6f2a2c1e0e04f545bc54c7f91329dac
+  - enabled: 1
+    path: Assets/Scenes/Tutorail3.unity
+    guid: 81dc87231c86cf34b9b422d21ccb7650
+  - enabled: 1
+    path: Assets/Scenes/Tutorail5.unity
+    guid: 5479e0397a146574f81cafd11b2df573
+  - enabled: 0
+    path: Assets/Scenes/PlayScene/PlayScene1-1.unity
+    guid: 8163f5dea01411149850a0db11c1a6c9
+  - enabled: 1
+    path: Assets/Scenes/1-4.unity
+    guid: 417b31849e7ce87499d4ef6d496bc7af
+  - enabled: 1
+    path: Assets/Scenes/Howto.unity
+    guid: bf493bd6e28f2e342adcd7fb62d90835
+  - enabled: 1
+    path: Assets/Scenes/conPage.unity
+    guid: 66223edb1f17bb4489b2cbd694b82dc1
+  - enabled: 1
+    path: Assets/Scenes/SelectLevelScene.unity
+    guid: 75ba597f08c64f34faf7dbbd5e20f931
+  m_configObjects: {}
