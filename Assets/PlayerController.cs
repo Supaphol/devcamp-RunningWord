@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     Animator anim;
 
     SpriteRenderer sr;
-    public static int life = 3;
+    public static int life = 5;
     bool isColi = false;
     private Sprite currentSprite;
 	public GameObject GOUI;
@@ -22,8 +22,6 @@ public class PlayerController : MonoBehaviour
     }
     void Start()
     {
-        
-    	QualitySettings.vSyncCount = 0;
 		Application.targetFrameRate = 60;
         rb2d = gameObject.GetComponent<Rigidbody2D>();
         sr = gameObject.GetComponent<SpriteRenderer>();
@@ -132,7 +130,7 @@ public class PlayerController : MonoBehaviour
         GoPlayScene.last = 0;
         GoPrePlayScene.lastScene = 1;
         Destroy(gameObject);
-        life = 3;
+        life = 5;
         HighScore h = HighScore.LoadHighScore();
         h.Add(UIController.score,GetName.getName(),h);
         HighScore.SaveHighScore(h);
